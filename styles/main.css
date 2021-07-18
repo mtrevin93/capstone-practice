@@ -1,0 +1,10 @@
+.body {
+    background-color: aliceblue;
+}
+.set {
+    display:flex;
+    border: 1.4px solid goldenrod;
+}
+.part {
+    border: 1.4px solid goldenrod;
+}
